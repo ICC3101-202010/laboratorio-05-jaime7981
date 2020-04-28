@@ -1,0 +1,7 @@
+C:\Users\jaime\Desktop\New Lab 5\Lab 5 Jaime Fernandez\bin\Debug\Lab 5 Jaime Fernandez.exe.config
+C:\Users\jaime\Desktop\New Lab 5\Lab 5 Jaime Fernandez\bin\Debug\Lab 5 Jaime Fernandez.exe
+C:\Users\jaime\Desktop\New Lab 5\Lab 5 Jaime Fernandez\bin\Debug\Lab 5 Jaime Fernandez.pdb
+C:\Users\jaime\Desktop\New Lab 5\Lab 5 Jaime Fernandez\obj\Debug\Lab 5 Jaime Fernandez.csprojAssemblyReference.cache
+C:\Users\jaime\Desktop\New Lab 5\Lab 5 Jaime Fernandez\obj\Debug\Lab 5 Jaime Fernandez.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\New Lab 5\Lab 5 Jaime Fernandez\obj\Debug\Lab 5 Jaime Fernandez.exe
+C:\Users\jaime\Desktop\New Lab 5\Lab 5 Jaime Fernandez\obj\Debug\Lab 5 Jaime Fernandez.pdb
